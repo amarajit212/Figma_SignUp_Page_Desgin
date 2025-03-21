@@ -42,5 +42,7 @@ Feel free to contribute by submitting pull requests or reporting issues.
 ---------------------
 📜 License
 ---------------------
-This project is open-source.
+This project is open-source and free to use
+<br>
+🔥 Built by Amarajit Muduli
 
